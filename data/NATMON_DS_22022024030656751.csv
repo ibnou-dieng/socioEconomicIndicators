@@ -1,0 +1,1137 @@
+﻿"NATMON_IND","Indicator","LOCATION","Country","TIME","Time","Value","Flag Codes","Flags"
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","PER","Peru","2017","2017",74.08084,,
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","PER","Peru","2018","2018",73.19909,,
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","PER","Peru","2020","2020",72.07165,,
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","MNG","Mongolia","2020","2020",47.40912,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40616","Southern Asia","2017","2017",63.9135,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40616","Southern Asia","2018","2018",63.79752,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40616","Southern Asia","2019","2019",63.45995,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40616","Southern Asia","2020","2020",63.60324,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40616","Southern Asia","2021","2021",63.71349,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40616","Southern Asia","2022","2022",63.449,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","MDG","Madagascar","2018","2018",51.36357,,
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","IND","India","2022","2022",53.93946,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40656","Oceania (excluding Australia and New Zealand)","2017","2017",42.42539,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40656","Oceania (excluding Australia and New Zealand)","2018","2018",42.43215,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40656","Oceania (excluding Australia and New Zealand)","2019","2019",42.44538,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40656","Oceania (excluding Australia and New Zealand)","2020","2020",42.4673,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40656","Oceania (excluding Australia and New Zealand)","2021","2021",42.46456,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","PRT","Portugal","2021","2021",67.62607,"‡","UIS Estimation"
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","RWA","Rwanda","2018","2018",64.06061,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","GIN","Guinea","2018","2018",66.34236,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","ECU","Ecuador","2017","2017",54.28956,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","ECU","Ecuador","2020","2020",53.65236,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","ECU","Ecuador","2021","2021",54.99693,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","ECU","Ecuador","2022","2022",60.18934,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","PHL","Philippines","2019","2019",29.60689,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","TGO","Togo","2019","2019",69.11679,,
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","OMN","Oman","2022","2022",63.03535,"+","National Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","SGP","Singapore","2017","2017",38.56929,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","SGP","Singapore","2018","2018",36.74952,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","SGP","Singapore","2019","2019",35.78847,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","SGP","Singapore","2020","2020",35.40277,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","GNB","Guinea-Bissau","2022","2022",65.87354,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40530","Central and Eastern Europe","2017","2017",77.66753,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40530","Central and Eastern Europe","2018","2018",79.35344,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40530","Central and Eastern Europe","2019","2019",79.26498,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40530","Central and Eastern Europe","2020","2020",79.32121,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40530","Central and Eastern Europe","2021","2021",79.21251,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40530","Central and Eastern Europe","2022","2022",78.96022,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","PSE","Palestine","2017","2017",76.76506,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","PSE","Palestine","2018","2018",76.60101,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","PSE","Palestine","2019","2019",77.90517,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","BFA","Burkina Faso","2018","2018",54.27737,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","BFA","Burkina Faso","2019","2019",51.92138,,
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","BTN","Bhutan","2017","2017",43.16067,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","BOL","Bolivia (Plurinational State of)","2020","2020",52.40674,,
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","RUS","Russian Federation","2021","2021",46.98579,,
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","BDI","Burundi","2017","2017",46.4407,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","CMR","Cameroon","2018","2018",62.51974,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","CMR","Cameroon","2020","2020",62.27103,"‡","UIS Estimation"
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","VNM","Viet Nam","2019","2019",66.01726,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","PAK","Pakistan","2017","2017",60.60676,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","PAK","Pakistan","2018","2018",62.63479,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","PAK","Pakistan","2019","2019",61.52945,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","POL","Poland","2021","2021",32.26053,"‡","UIS Estimation"
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","GTM","Guatemala","2018","2018",54.9359,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40550","Small Island Developing States","2017","2017",54.92715,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40550","Small Island Developing States","2018","2018",54.90412,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40550","Small Island Developing States","2019","2019",54.87037,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40550","Small Island Developing States","2020","2020",54.89815,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40550","Small Island Developing States","2021","2021",54.84287,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40550","Small Island Developing States","2022","2022",54.84055,"‡","UIS Estimation"
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","MLI","Mali","2018","2018",56.3298,,
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","MLI","Mali","2020","2020",55.16111,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","PRK","Democratic People's Republic of Korea","2018","2018",69.18082,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40603","Northern Africa","2017","2017",52.20263,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40603","Northern Africa","2018","2018",51.49295,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40603","Northern Africa","2019","2019",51.14998,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40603","Northern Africa","2020","2020",50.8744,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40603","Northern Africa","2021","2021",50.59337,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40603","Northern Africa","2022","2022",50.31312,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","KAZ","Kazakhstan","2020","2020",69.56788,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","LVA","Latvia","2021","2021",43.71671,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","CYM","Cayman Islands","2017","2017",60.86613,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","BGR","Bulgaria","2021","2021",53.91019,"‡","UIS Estimation"
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","KWT","Kuwait","2017","2017",30.72508,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","KWT","Kuwait","2018","2018",24.94343,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","RWA","Rwanda","2018","2018",42.89867,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","RWA","Rwanda","2021","2021",37.23415,"‡","UIS Estimation"
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","BLR","Belarus","2019","2019",55.69274,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","ECU","Ecuador","2017","2017",39.34232,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","ECU","Ecuador","2020","2020",36.90778,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","ECU","Ecuador","2021","2021",25.44946,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","ECU","Ecuador","2022","2022",42.97742,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","UGA","Uganda","2018","2018",63.9058,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","UGA","Uganda","2022","2022",61.89056,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","GEO","Georgia","2017","2017",59.61757,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","GEO","Georgia","2022","2022",58.7797,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","SWZ","Eswatini","2020","2020",35.39273,"‡","UIS Estimation"
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","OMN","Oman","2022","2022",36.87376,"+","National Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","VEN","Venezuela (Bolivarian Republic of)","2022","2022",48.44199,"‡","UIS Estimation"
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","AZE","Azerbaijan","2017","2017",70.40888,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","AZE","Azerbaijan","2019","2019",70.2536,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","IDN","Indonesia","2018","2018",50.51078,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","IDN","Indonesia","2020","2020",48.2769,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","CYP","Cyprus","2021","2021",44.03616,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","NGA","Nigeria","2018","2018",62.49127,"‡","UIS Estimation"
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","BDI","Burundi","2017","2017",62.98229,,
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","RUS","Russian Federation","2021","2021",44.26138,,
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","UZB","Uzbekistan","2018","2018",50.10161,,
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","UZB","Uzbekistan","2019","2019",50.15195,,
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","UZB","Uzbekistan","2021","2021",50.23535,,
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","UZB","Uzbekistan","2022","2022",50.22662,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","EGY","Egypt","2017","2017",59.14767,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","EGY","Egypt","2022","2022",60.56123,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","JOR","Jordan","2021","2021",36.60236,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","COG","Congo","2021","2021",57.83952,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","ZWE","Zimbabwe","2022","2022",47.43694,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","ESP","Spain","2018","2018",43.84836,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","ESP","Spain","2020","2020",31.39759,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","CAF","Central African Republic","2018","2018",59.86793,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","CAF","Central African Republic","2020","2020",59.63555,"‡","UIS Estimation"
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","MLI","Mali","2018","2018",70.63136,,
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","MLI","Mali","2020","2020",69.31491,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40510","World","2017","2017",56.81147,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40510","World","2018","2018",56.59995,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40510","World","2019","2019",57.74141,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40510","World","2020","2020",57.35761,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40510","World","2021","2021",56.94649,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40510","World","2022","2022",56.58019,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40515","East Asia and the Pacific","2017","2017",69.14681,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40515","East Asia and the Pacific","2018","2018",68.22417,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40515","East Asia and the Pacific","2019","2019",69.32814,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40515","East Asia and the Pacific","2020","2020",68.42847,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40515","East Asia and the Pacific","2021","2021",68.60384,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40614","Western Asia","2017","2017",70.88559,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40614","Western Asia","2018","2018",64.60849,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40614","Western Asia","2019","2019",64.45037,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40614","Western Asia","2020","2020",64.49955,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40614","Western Asia","2021","2021",64.47233,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40614","Western Asia","2022","2022",64.37784,,
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","MEX","Mexico","2017","2017",49.96901,,
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","MEX","Mexico","2018","2018",44.89927,,
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","MEX","Mexico","2020","2020",41.824,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","MMR","Myanmar","2019","2019",47.677,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","URY","Uruguay","2017","2017",25.28145,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","URY","Uruguay","2018","2018",32.72137,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","URY","Uruguay","2019","2019",15.13641,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40042","Lower middle income countries","2017","2017",57.37649,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40042","Lower middle income countries","2018","2018",57.23545,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40042","Lower middle income countries","2019","2019",59.66163,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40042","Lower middle income countries","2020","2020",59.12693,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40042","Lower middle income countries","2021","2021",58.69448,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40042","Lower middle income countries","2022","2022",58.30101,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40540","Sub-Saharan Africa","2017","2017",61.12641,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40540","Sub-Saharan Africa","2018","2018",61.25382,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40540","Sub-Saharan Africa","2019","2019",61.10871,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40540","Sub-Saharan Africa","2020","2020",60.97597,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40540","Sub-Saharan Africa","2021","2021",60.83161,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40540","Sub-Saharan Africa","2022","2022",60.75193,"‡","UIS Estimation"
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","ZAF","South Africa","2017","2017",29.69471,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","ZAF","South Africa","2019","2019",38.78458,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","ZAF","South Africa","2021","2021",33.37755,,
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","SLV","El Salvador","2017","2017",59.37969,,
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","SLV","El Salvador","2018","2018",58.73556,,
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","SLV","El Salvador","2019","2019",58.35478,,
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","SLV","El Salvador","2020","2020",57.18559,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","BRA","Brazil","2017","2017",30.3115,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","BRA","Brazil","2018","2018",35.19479,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","BRA","Brazil","2022","2022",32.36407,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","BFA","Burkina Faso","2018","2018",58.59756,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","BFA","Burkina Faso","2019","2019",54.85572,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","BFA","Burkina Faso","2022","2022",55.09999,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","AZE","Azerbaijan","2017","2017",67.80964,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","AZE","Azerbaijan","2019","2019",68.04134,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","COL","Colombia","2018","2018",53.94069,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","COL","Colombia","2019","2019",53.56636,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","COL","Colombia","2020","2020",53.87745,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","SUR","Suriname","2021","2021",65.82012,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","MLT","Malta","2021","2021",31.43864,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","TZA","United Republic of Tanzania","2022","2022",60.9071,"‡","UIS Estimation"
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","UZB","Uzbekistan","2018","2018",99.92254,,
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","UZB","Uzbekistan","2019","2019",50.25988,,
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","UZB","Uzbekistan","2021","2021",50.31762,,
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","UZB","Uzbekistan","2022","2022",50.34068,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40630","Latin America and the Caribbean","2017","2017",43.76038,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40630","Latin America and the Caribbean","2018","2018",43.74782,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40630","Latin America and the Caribbean","2019","2019",43.6815,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40630","Latin America and the Caribbean","2020","2020",43.62672,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40630","Latin America and the Caribbean","2021","2021",43.12353,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40630","Latin America and the Caribbean","2022","2022",43.18448,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","PSE","Palestine","2017","2017",55.33475,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","PSE","Palestine","2018","2018",55.98004,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","PSE","Palestine","2019","2019",63.20827,,
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","LKA","Sri Lanka","2017","2017",41.08189,,
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","LKA","Sri Lanka","2018","2018",32.73301,,
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","LKA","Sri Lanka","2019","2019",12.0664,,
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","LKA","Sri Lanka","2020","2020",42.62031,,
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","LKA","Sri Lanka","2021","2021",61.6774,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","NPL","Nepal","2021","2021",69.02078,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","KHM","Cambodia","2022","2022",43.37727,"‡","UIS Estimation"
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","GEO","Georgia","2022","2022",24.56915,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","KWT","Kuwait","2017","2017",48.78085,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","KWT","Kuwait","2018","2018",47.32026,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","KWT","Kuwait","2020","2020",47.77988,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","SDN","Sudan","2018","2018",48.72969,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","MOZ","Mozambique","2017","2017",60.41284,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","MOZ","Mozambique","2020","2020",60.2898,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","SSD","South Sudan","2018","2018",49.52406,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40030","Middle income countries","2017","2017",63.98601,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40030","Middle income countries","2018","2018",63.72965,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40030","Middle income countries","2019","2019",63.65267,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40030","Middle income countries","2020","2020",63.57175,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40030","Middle income countries","2021","2021",63.62402,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40030","Middle income countries","2022","2022",63.41764,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","ESP","Spain","2018","2018",67.03148,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","ESP","Spain","2020","2020",67.00584,,
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","THA","Thailand","2018","2018",62.56861,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40675","World","2017","2017",56.81147,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40675","World","2018","2018",56.59995,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40675","World","2019","2019",57.74141,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40675","World","2020","2020",57.35761,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40675","World","2021","2021",56.94649,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40675","World","2022","2022",56.58019,,
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","MEX","Mexico","2017","2017",57.8942,,
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","MEX","Mexico","2018","2018",57.44242,,
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","MEX","Mexico","2020","2020",58.36081,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","HND","Honduras","2018","2018",25.41644,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","HND","Honduras","2019","2019",33.50645,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","MUS","Mauritius","2021","2021",61.87044,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","SEN","Senegal","2017","2017",64.99683,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","SEN","Senegal","2022","2022",64.80889,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","HRV","Croatia","2021","2021",72.45765,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","LBR","Liberia","2017","2017",64.77874,"‡","UIS Estimation"
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","SLV","El Salvador","2017","2017",42.76626,,
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","SLV","El Salvador","2018","2018",45.0059,,
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","SLV","El Salvador","2019","2019",40.21477,,
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","SLV","El Salvador","2020","2020",43.46212,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","BGD","Bangladesh","2017","2017",57.91914,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","BGD","Bangladesh","2018","2018",58.06558,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","BGD","Bangladesh","2019","2019",57.95736,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","BGD","Bangladesh","2020","2020",57.97112,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40606","Sub-Saharan Africa","2017","2017",61.12235,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40606","Sub-Saharan Africa","2018","2018",61.24799,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40606","Sub-Saharan Africa","2019","2019",61.10301,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40606","Sub-Saharan Africa","2020","2020",60.97051,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40606","Sub-Saharan Africa","2021","2021",60.82782,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40606","Sub-Saharan Africa","2022","2022",60.74651,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","URY","Uruguay","2017","2017",39.25515,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","URY","Uruguay","2018","2018",40.11877,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","URY","Uruguay","2019","2019",41.08434,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","GAB","Gabon","2022","2022",50.94897,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","DZA","Algeria","2018","2018",52.05767,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","PER","Peru","2017","2017",61.10441,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","PER","Peru","2018","2018",53.20943,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","PER","Peru","2020","2020",57.44276,,
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","HND","Honduras","2018","2018",46.01353,,
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","HND","Honduras","2019","2019",46.42407,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","TUN","Tunisia","2022","2022",47.53742,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","CIV","Côte d'Ivoire","2019","2019",76.26099,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","MDV","Maldives","2021","2021",30.97311,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","ROU","Romania","2021","2021",61.18428,"‡","UIS Estimation"
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","VNM","Viet Nam","2019","2019",40.46566,,
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","GTM","Guatemala","2018","2018",60.81399,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","MWI","Malawi","2022","2022",57.3093,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40334","Least Developed Countries","2017","2017",60.87828,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40334","Least Developed Countries","2018","2018",60.78873,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40334","Least Developed Countries","2019","2019",60.82406,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40334","Least Developed Countries","2020","2020",60.75912,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40334","Least Developed Countries","2021","2021",60.79972,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40334","Least Developed Countries","2022","2022",60.74954,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","IND","India","2022","2022",63.84593,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","WSM","Samoa","2021","2021",32.50361,"‡","UIS Estimation"
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","THA","Thailand","2018","2018",42.83856,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","TUR","Türkiye","2017","2017",81.10785,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","TUR","Türkiye","2019","2019",80.22738,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","TLS","Timor-Leste","2020","2020",43.76284,"‡","UIS Estimation"
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","LKA","Sri Lanka","2017","2017",35.78447,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","LKA","Sri Lanka","2018","2018",39.15332,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","LKA","Sri Lanka","2019","2019",40.98619,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","LKA","Sri Lanka","2020","2020",36.77414,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","LKA","Sri Lanka","2021","2021",36.67226,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","MDG","Madagascar","2018","2018",55.83046,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40550","Small Island Developing States","2017","2017",47.0251,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40550","Small Island Developing States","2018","2018",46.95096,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40550","Small Island Developing States","2019","2019",46.87009,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40550","Small Island Developing States","2020","2020",46.79262,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40550","Small Island Developing States","2021","2021",46.71992,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40550","Small Island Developing States","2022","2022",46.63386,"‡","UIS Estimation"
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","BFA","Burkina Faso","2018","2018",65.46086,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","BFA","Burkina Faso","2019","2019",55.47042,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40030","Middle income countries","2017","2017",56.83517,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40030","Middle income countries","2018","2018",56.53846,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40030","Middle income countries","2019","2019",58.68992,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40030","Middle income countries","2020","2020",58.19082,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40030","Middle income countries","2021","2021",57.72169,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40030","Middle income countries","2022","2022",57.33596,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","UZB","Uzbekistan","2018","2018",50.10161,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","UZB","Uzbekistan","2019","2019",50.15195,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","UZB","Uzbekistan","2021","2021",50.23535,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","UZB","Uzbekistan","2022","2022",50.22662,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","MDA","Republic of Moldova","2021","2021",49.44426,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","BDI","Burundi","2017","2017",62.95695,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","BDI","Burundi","2022","2022",63.53539,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40525","Arab States","2017","2017",63.36441,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40525","Arab States","2018","2018",62.1997,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40525","Arab States","2019","2019",62.1505,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40525","Arab States","2020","2020",62.21257,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40525","Arab States","2021","2021",62.23301,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40525","Arab States","2022","2022",62.22155,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","BGD","Bangladesh","2017","2017",39.38603,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","BGD","Bangladesh","2018","2018",37.74354,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","BGD","Bangladesh","2019","2019",37.77524,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","BGD","Bangladesh","2020","2020",37.18413,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","AFG","Afghanistan","2021","2021",64.57631,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","GTM","Guatemala","2018","2018",62.37315,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","GTM","Guatemala","2022","2022",63.69295,"‡","UIS Estimation"
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","HND","Honduras","2018","2018",24.40925,,
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","HND","Honduras","2019","2019",35.46552,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","MAR","Morocco","2022","2022",68.23707,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","ETH","Ethiopia","2017","2017",50.73391,"‡","UIS Estimation"
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","CIV","Côte d'Ivoire","2019","2019",73.27526,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","PHL","Philippines","2019","2019",44.15347,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40612","Central Asia","2017","2017",48.55329,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40612","Central Asia","2018","2018",48.25482,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40612","Central Asia","2019","2019",48.89866,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40612","Central Asia","2020","2020",50.38631,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40612","Central Asia","2021","2021",50.50187,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40612","Central Asia","2022","2022",50.67164,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","SYC","Seychelles","2020","2020",18.81769,"‡","UIS Estimation"
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","BRA","Brazil","2017","2017",29.34813,,
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","BRA","Brazil","2018","2018",36.04718,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","ITA","Italy","2019","2019",27.90795,"‡","UIS Estimation"
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","SEN","Senegal","2017","2017",61.29405,,
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","PER","Peru","2017","2017",55.49658,,
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","PER","Peru","2018","2018",48.6398,,
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","PER","Peru","2020","2020",60.68451,,
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","IDN","Indonesia","2018","2018",67.63676,,
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","IDN","Indonesia","2020","2020",66.8728,,
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","MNG","Mongolia","2020","2020",42.40364,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","BTN","Bhutan","2017","2017",49.05816,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","URY","Uruguay","2017","2017",31.3696,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","URY","Uruguay","2018","2018",36.52443,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","URY","Uruguay","2019","2019",33.98779,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","PRY","Paraguay","2018","2018",46.13505,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","PRY","Paraguay","2019","2019",41.16681,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","PRY","Paraguay","2020","2020",34.49113,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","GIN","Guinea","2018","2018",64.45935,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","GIN","Guinea","2021","2021",63.32719,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","SLE","Sierra Leone","2022","2022",57.33844,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","MNE","Montenegro","2021","2021",55.57174,"‡","UIS Estimation"
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","BGD","Bangladesh","2017","2017",54.99824,,
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","BGD","Bangladesh","2018","2018",55.07238,,
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","BGD","Bangladesh","2019","2019",55.42023,,
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","BGD","Bangladesh","2020","2020",56.03689,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","UZB","Uzbekistan","2018","2018",99.87897,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","UZB","Uzbekistan","2019","2019",50.25988,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","UZB","Uzbekistan","2021","2021",98.81969,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","UZB","Uzbekistan","2022","2022",50.34068,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","DOM","Dominican Republic","2022","2022",49.34399,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40617","Northern Africa and Western Asia","2017","2017",64.2954,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40617","Northern Africa and Western Asia","2018","2018",62.98536,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40617","Northern Africa and Western Asia","2019","2019",62.92426,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40617","Northern Africa and Western Asia","2020","2020",62.9305,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40617","Northern Africa and Western Asia","2021","2021",62.92335,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40617","Northern Africa and Western Asia","2022","2022",62.89145,,
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","BOL","Bolivia (Plurinational State of)","2020","2020",77.65024,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","PHL","Philippines","2019","2019",33.39739,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","LAO","Lao People's Democratic Republic","2022","2022",57.79301,"‡","UIS Estimation"
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","ESP","Spain","2018","2018",65.42986,,
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","ESP","Spain","2020","2020",64.37389,,
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","CIV","Côte d'Ivoire","2019","2019",46.40987,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","HRV","Croatia","2021","2021",45.03233,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","MLI","Mali","2018","2018",57.54414,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","MLI","Mali","2020","2020",56.23833,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","LTU","Lithuania","2021","2021",47.9931,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","COL","Colombia","2018","2018",39.89286,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","COL","Colombia","2019","2019",35.41471,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","COL","Colombia","2020","2020",35.11754,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","ABW","Aruba","2020","2020",53.34468,"‡","UIS Estimation"
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","MEX","Mexico","2017","2017",45.00876,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","MEX","Mexico","2018","2018",44.67205,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","MEX","Mexico","2020","2020",48.60441,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","RUS","Russian Federation","2021","2021",48.61449,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40043","Upper middle income countries","2017","2017",67.77613,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40043","Upper middle income countries","2018","2018",66.21941,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40043","Upper middle income countries","2019","2019",66.73676,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40043","Upper middle income countries","2020","2020",65.90205,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40043","Upper middle income countries","2021","2021",65.73393,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40043","Upper middle income countries","2022","2022",65.79769,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40520","Latin America and the Caribbean","2017","2017",43.76082,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40520","Latin America and the Caribbean","2018","2018",43.74823,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40520","Latin America and the Caribbean","2019","2019",43.68188,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40520","Latin America and the Caribbean","2020","2020",43.6271,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40520","Latin America and the Caribbean","2021","2021",43.12398,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40520","Latin America and the Caribbean","2022","2022",43.1849,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","PAK","Pakistan","2017","2017",62.20873,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","PAK","Pakistan","2018","2018",62.72558,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","PAK","Pakistan","2019","2019",62.18101,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","MMR","Myanmar","2019","2019",66.36037,,
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","IDN","Indonesia","2018","2018",42.97376,,
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","IDN","Indonesia","2020","2020",40.6148,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","TON","Tonga","2021","2021",41.22588,"‡","UIS Estimation"
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","ARM","Armenia","2017","2017",68.07215,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","ARM","Armenia","2020","2020",68.12892,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","ZAF","South Africa","2017","2017",53.03933,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","ZAF","South Africa","2019","2019",51.54629,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","ZAF","South Africa","2021","2021",52.6472,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","URY","Uruguay","2017","2017",40.6383,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","URY","Uruguay","2018","2018",41.12156,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","URY","Uruguay","2019","2019",42.88924,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","MEX","Mexico","2017","2017",60.22165,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","MEX","Mexico","2018","2018",60.51522,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","MEX","Mexico","2020","2020",59.93845,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40344","Small Island Developing States","2017","2017",54.87456,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40344","Small Island Developing States","2018","2018",54.85478,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40344","Small Island Developing States","2019","2019",54.82489,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40344","Small Island Developing States","2020","2020",54.85486,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40344","Small Island Developing States","2021","2021",54.80401,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40344","Small Island Developing States","2022","2022",54.80398,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40330","Landlocked Developing Countries","2017","2017",59.53543,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40330","Landlocked Developing Countries","2018","2018",59.42234,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40330","Landlocked Developing Countries","2019","2019",59.05951,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40330","Landlocked Developing Countries","2020","2020",58.91526,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40330","Landlocked Developing Countries","2021","2021",58.79529,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40330","Landlocked Developing Countries","2022","2022",58.85298,"‡","UIS Estimation"
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","BLR","Belarus","2019","2019",39.89916,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40613","South-Eastern Asia","2017","2017",64.26868,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40613","South-Eastern Asia","2018","2018",62.25714,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40613","South-Eastern Asia","2019","2019",64.33821,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40613","South-Eastern Asia","2020","2020",63.28567,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40613","South-Eastern Asia","2021","2021",63.69758,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40613","South-Eastern Asia","2022","2022",63.52112,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","COM","Comoros","2022","2022",56.3506,"‡","UIS Estimation"
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","PAK","Pakistan","2017","2017",65.51049,,
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","PAK","Pakistan","2018","2018",63.89339,,
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","PAK","Pakistan","2019","2019",63.85412,,
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","BOL","Bolivia (Plurinational State of)","2020","2020",46.27891,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","KWT","Kuwait","2017","2017",91.67321,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","KWT","Kuwait","2018","2018",91.87908,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","IRQ","Iraq","2017","2017",70.3072,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40505","Central Asia","2017","2017",63.71031,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40505","Central Asia","2018","2018",63.94744,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40505","Central Asia","2019","2019",64.11913,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40505","Central Asia","2020","2020",65.03802,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40505","Central Asia","2021","2021",65.06883,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40505","Central Asia","2022","2022",64.18557,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","BIH","Bosnia and Herzegovina","2022","2022",48.82414,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","LKA","Sri Lanka","2017","2017",58.68473,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","LKA","Sri Lanka","2018","2018",58.48756,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","LKA","Sri Lanka","2019","2019",57.23796,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","LKA","Sri Lanka","2020","2020",58.12473,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","LKA","Sri Lanka","2021","2021",58.25464,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","BDI","Burundi","2017","2017",62.33816,,
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","SRB","Serbia","2019","2019",50.08191,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","IND","India","2022","2022",62.94708,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","CPV","Cabo Verde","2022","2022",69.67901,"‡","UIS Estimation"
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","RWA","Rwanda","2018","2018",59.5012,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","BRN","Brunei Darussalam","2018","2018",63.81549,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","BRN","Brunei Darussalam","2021","2021",62.73667,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","NER","Niger","2022","2022",56.06867,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","GEO","Georgia","2017","2017",67.30124,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","GEO","Georgia","2022","2022",16.34813,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","NAM","Namibia","2021","2021",52.03064,"‡","UIS Estimation"
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","ECU","Ecuador","2017","2017",57.22952,,
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","ECU","Ecuador","2020","2020",63.6674,,
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","ECU","Ecuador","2021","2021",53.97146,,
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","ECU","Ecuador","2022","2022",57.04693,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","CHL","Chile","2017","2017",50.79778,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40611","Eastern Asia","2017","2017",47.99665,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40611","Eastern Asia","2018","2018",47.02175,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40611","Eastern Asia","2019","2019",45.76324,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40611","Eastern Asia","2020","2020",45.0697,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40611","Eastern Asia","2021","2021",44.9057,"‡","UIS Estimation"
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","MOZ","Mozambique","2017","2017",60.71603,,
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","MOZ","Mozambique","2020","2020",59.93105,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","PSE","Palestine","2017","2017",76.08441,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","PSE","Palestine","2018","2018",75.15693,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","PSE","Palestine","2019","2019",77.19983,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","PRI","Puerto Rico","2017","2017",50.35262,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","PRI","Puerto Rico","2021","2021",49.87948,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40044","Low income countries","2017","2017",61.29234,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40044","Low income countries","2018","2018",61.17818,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40044","Low income countries","2019","2019",60.88558,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40044","Low income countries","2020","2020",60.76764,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40044","Low income countries","2021","2021",60.65828,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40044","Low income countries","2022","2022",60.65056,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","ZAF","South Africa","2017","2017",32.77654,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","ZAF","South Africa","2019","2019",36.12962,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","ZAF","South Africa","2021","2021",37.47802,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","COD","Democratic Republic of the Congo","2022","2022",73.79868,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","NPL","Nepal","2021","2021",58.82081,"‡","UIS Estimation"
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","PAN","Panama","2018","2018",60.09026,,
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","PAN","Panama","2019","2019",25.15337,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","MDG","Madagascar","2018","2018",51.35036,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","MDG","Madagascar","2022","2022",49.8778,"‡","UIS Estimation"
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","AZE","Azerbaijan","2017","2017",66.98798,,
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","AZE","Azerbaijan","2019","2019",67.92447,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","MAC","China, Macao Special Administrative Region","2021","2021",75.90669,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","PRY","Paraguay","2018","2018",54.21089,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","PRY","Paraguay","2019","2019",54.30441,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","PRY","Paraguay","2020","2020",53.53697,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","CRI","Costa Rica","2021","2021",48.81135,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","KEN","Kenya","2022","2022",58.55884,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","BFA","Burkina Faso","2018","2018",55.23367,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","BFA","Burkina Faso","2019","2019",53.06495,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","BFA","Burkina Faso","2022","2022",51.50414,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","AFG","Afghanistan","2021","2021",66.05008,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","IRN","Iran (Islamic Republic of)","2022","2022",44.10785,"‡","UIS Estimation"
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","SRB","Serbia","2019","2019",91.20304,,
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","RWA","Rwanda","2018","2018",49.50284,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","VNM","Viet Nam","2019","2019",65.77371,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","GEO","Georgia","2022","2022",48.80272,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40535","South and West Asia","2017","2017",57.73337,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40535","South and West Asia","2018","2018",57.9764,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40535","South and West Asia","2019","2019",61.94416,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40535","South and West Asia","2020","2020",61.22353,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40535","South and West Asia","2021","2021",60.65472,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40535","South and West Asia","2022","2022",60.03862,,
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","BRA","Brazil","2017","2017",42.65416,,
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","BRA","Brazil","2018","2018",42.36606,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","MLI","Mali","2018","2018",54.22941,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","MLI","Mali","2020","2020",55.0566,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","TCD","Chad","2022","2022",56.09009,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","EST","Estonia","2021","2021",51.38292,"‡","UIS Estimation"
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","LKA","Sri Lanka","2017","2017",59.02827,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","LKA","Sri Lanka","2018","2018",59.29491,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","LKA","Sri Lanka","2019","2019",58.67169,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","LKA","Sri Lanka","2020","2020",62.24742,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","LKA","Sri Lanka","2021","2021",63.81007,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40618","Central and Southern Asia","2017","2017",63.91408,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40618","Central and Southern Asia","2018","2018",63.79813,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40618","Central and Southern Asia","2019","2019",63.46067,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40618","Central and Southern Asia","2020","2020",63.60404,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40618","Central and Southern Asia","2021","2021",63.71434,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40618","Central and Southern Asia","2022","2022",63.44988,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","SLV","El Salvador","2017","2017",45.79393,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","SLV","El Salvador","2018","2018",41.18082,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","SLV","El Salvador","2019","2019",36.5769,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","SLV","El Salvador","2020","2020",40.19113,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","UZB","Uzbekistan","2018","2018",99.72335,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","UZB","Uzbekistan","2019","2019",50.25988,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","UZB","Uzbekistan","2021","2021",99.40275,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","UZB","Uzbekistan","2022","2022",50.34068,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40044","Low income countries","2017","2017",57.2027,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40044","Low income countries","2018","2018",57.13772,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40044","Low income countries","2019","2019",56.60754,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40044","Low income countries","2020","2020",56.4592,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40044","Low income countries","2021","2021",56.11053,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40044","Low income countries","2022","2022",55.78832,,
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","AZE","Azerbaijan","2017","2017",51.29696,,
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","AZE","Azerbaijan","2019","2019",51.72195,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","MOZ","Mozambique","2017","2017",60.35873,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","MOZ","Mozambique","2020","2020",60.35774,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40630","Latin America and the Caribbean","2017","2017",54.6787,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40630","Latin America and the Caribbean","2018","2018",54.44659,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40630","Latin America and the Caribbean","2019","2019",54.46696,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40630","Latin America and the Caribbean","2020","2020",54.7342,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40630","Latin America and the Caribbean","2021","2021",54.44878,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40630","Latin America and the Caribbean","2022","2022",54.41985,,
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","COL","Colombia","2018","2018",37.7861,,
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","COL","Colombia","2019","2019",34.02372,,
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","COL","Colombia","2020","2020",35.95268,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","PRY","Paraguay","2018","2018",55.80584,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","PRY","Paraguay","2019","2019",57.68864,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","PRY","Paraguay","2020","2020",59.64292,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","COG","Congo","2021","2021",64.03763,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","ZWE","Zimbabwe","2022","2022",30.07412,"‡","UIS Estimation"
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","SRB","Serbia","2019","2019",50.08191,,
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","ESP","Spain","2018","2018",46.71701,,
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","ESP","Spain","2020","2020",28.90546,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","BGR","Bulgaria","2021","2021",60.1949,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40614","Western Asia","2017","2017",74.60073,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40614","Western Asia","2018","2018",61.82366,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40614","Western Asia","2019","2019",61.86453,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40614","Western Asia","2020","2020",61.91558,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40614","Western Asia","2021","2021",62.15495,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40614","Western Asia","2022","2022",62.08583,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","THA","Thailand","2018","2018",62.87868,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","THA","Thailand","2021","2021",63.34086,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40613","South-Eastern Asia","2017","2017",48.93164,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40613","South-Eastern Asia","2018","2018",46.96389,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40613","South-Eastern Asia","2019","2019",44.64166,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40613","South-Eastern Asia","2020","2020",43.76062,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40613","South-Eastern Asia","2021","2021",42.92478,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40613","South-Eastern Asia","2022","2022",41.89358,,
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","URY","Uruguay","2017","2017",24.06027,,
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","URY","Uruguay","2018","2018",28.96386,,
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","URY","Uruguay","2019","2019",22.09818,,
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","MMR","Myanmar","2019","2019",46.65894,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","HND","Honduras","2018","2018",49.53227,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","HND","Honduras","2019","2019",48.7386,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","IDN","Indonesia","2018","2018",51.76498,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","IDN","Indonesia","2020","2020",49.38598,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40042","Lower middle income countries","2017","2017",63.27861,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40042","Lower middle income countries","2018","2018",63.23574,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40042","Lower middle income countries","2019","2019",63.0844,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40042","Lower middle income countries","2020","2020",63.15917,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40042","Lower middle income countries","2021","2021",63.24094,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40042","Lower middle income countries","2022","2022",62.98236,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","DZA","Algeria","2018","2018",65.43922,"‡","UIS Estimation"
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","PAN","Panama","2018","2018",61.77595,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","PAN","Panama","2019","2019",57.71497,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","BTN","Bhutan","2017","2017",63.33427,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","TGO","Togo","2019","2019",80.49138,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","ARM","Armenia","2017","2017",41.42559,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","ARM","Armenia","2020","2020",40.41889,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40606","Sub-Saharan Africa","2017","2017",57.04876,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40606","Sub-Saharan Africa","2018","2018",56.82015,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40606","Sub-Saharan Africa","2019","2019",56.57268,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40606","Sub-Saharan Africa","2020","2020",56.44689,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40606","Sub-Saharan Africa","2021","2021",56.13031,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40606","Sub-Saharan Africa","2022","2022",55.93643,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","MNG","Mongolia","2020","2020",47.44549,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","BRA","Brazil","2017","2017",32.34272,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","BRA","Brazil","2018","2018",33.53312,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","ERI","Eritrea","2018","2018",53.74011,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","ARE","United Arab Emirates","2019","2019",37.05953,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","ARE","United Arab Emirates","2021","2021",47.12996,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","ARE","United Arab Emirates","2022","2022",43.66434,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","TUN","Tunisia","2022","2022",69.02289,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","OMN","Oman","2017","2017",53.43963,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","OMN","Oman","2018","2018",52.04298,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","OMN","Oman","2022","2022",65.89787,"+","National Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","PER","Peru","2017","2017",75.35361,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","PER","Peru","2018","2018",74.93031,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","PER","Peru","2020","2020",73.33401,,
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","COL","Colombia","2018","2018",43.286,,
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","COL","Colombia","2019","2019",43.48188,,
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","COL","Colombia","2020","2020",42.02233,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","SUR","Suriname","2021","2021",58.70951,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","PRY","Paraguay","2018","2018",32.45878,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","PRY","Paraguay","2019","2019",39.17928,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","PRY","Paraguay","2020","2020",48.53778,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","ALB","Albania","2022","2022",9.82609,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40510","World","2017","2017",63.38227,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40510","World","2018","2018",63.13573,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40510","World","2019","2019",63.01947,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40510","World","2020","2020",62.91845,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40510","World","2021","2021",62.92239,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40510","World","2022","2022",62.74383,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","CHL","Chile","2017","2017",48.92959,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","CHL","Chile","2022","2022",55.45286,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","KWT","Kuwait","2017","2017",30.91299,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","KWT","Kuwait","2018","2018",25.15963,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","KWT","Kuwait","2020","2020",27.94255,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","TZA","United Republic of Tanzania","2022","2022",46.63101,"‡","UIS Estimation"
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","MDG","Madagascar","2018","2018",51.12593,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40515","East Asia and the Pacific","2017","2017",47.43696,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40515","East Asia and the Pacific","2018","2018",46.07888,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40515","East Asia and the Pacific","2019","2019",44.29032,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40515","East Asia and the Pacific","2020","2020",43.66741,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40515","East Asia and the Pacific","2021","2021",43.21388,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40515","East Asia and the Pacific","2022","2022",42.66927,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40540","Sub-Saharan Africa","2017","2017",57.05343,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40540","Sub-Saharan Africa","2018","2018",56.82629,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40540","Sub-Saharan Africa","2019","2019",56.57954,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40540","Sub-Saharan Africa","2020","2020",56.45511,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40540","Sub-Saharan Africa","2021","2021",56.13885,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40540","Sub-Saharan Africa","2022","2022",55.94614,"‡","UIS Estimation"
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","AFG","Afghanistan","2021","2021",66.53078,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","MEX","Mexico","2017","2017",62.64114,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","MEX","Mexico","2018","2018",63.6265,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","MEX","Mexico","2020","2020",61.42885,,
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","MMR","Myanmar","2019","2019",64.66606,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","SEN","Senegal","2017","2017",66.49831,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","PSE","Palestine","2017","2017",45.62847,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","PSE","Palestine","2018","2018",46.41057,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","PSE","Palestine","2019","2019",52.56898,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","VNM","Viet Nam","2019","2019",53.98266,,
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","PHL","Philippines","2019","2019",41.18649,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","HND","Honduras","2018","2018",25.7548,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","HND","Honduras","2019","2019",32.8162,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","IDN","Indonesia","2018","2018",69.20778,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","IDN","Indonesia","2020","2020",68.07132,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","TGO","Togo","2019","2019",66.38841,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","RUS","Russian Federation","2021","2021",51.01756,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","CHN","China","2020","2020",75.82381,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","BLR","Belarus","2019","2019",53.69094,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40619","Eastern and South-Eastern Asia","2017","2017",69.94886,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40619","Eastern and South-Eastern Asia","2018","2018",68.99542,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40619","Eastern and South-Eastern Asia","2019","2019",70.26732,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40619","Eastern and South-Eastern Asia","2020","2020",69.38279,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40619","Eastern and South-Eastern Asia","2021","2021",69.58882,"‡","UIS Estimation"
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","BDI","Burundi","2017","2017",62.39822,,
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","BGD","Bangladesh","2017","2017",43.13686,,
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","BGD","Bangladesh","2018","2018",42.91679,,
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","BGD","Bangladesh","2019","2019",43.31104,,
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","BGD","Bangladesh","2020","2020",40.16593,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","MOZ","Mozambique","2017","2017",66.18818,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","MOZ","Mozambique","2020","2020",66.78437,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","THA","Thailand","2018","2018",34.12875,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","SRB","Serbia","2019","2019",88.78526,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","GTM","Guatemala","2018","2018",57.31125,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","CHL","Chile","2017","2017",54.10092,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","SLE","Sierra Leone","2022","2022",52.85613,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","SOM","Somalia","2022","2022",61.41287,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","SSD","South Sudan","2018","2018",55.97541,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40656","Oceania (excluding Australia and New Zealand)","2017","2017",53.75326,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40656","Oceania (excluding Australia and New Zealand)","2018","2018",53.78738,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40656","Oceania (excluding Australia and New Zealand)","2019","2019",53.8223,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40656","Oceania (excluding Australia and New Zealand)","2020","2020",53.86423,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40656","Oceania (excluding Australia and New Zealand)","2021","2021",53.90746,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","MWI","Malawi","2022","2022",44.14773,"‡","UIS Estimation"
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","MDG","Madagascar","2018","2018",53.56089,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","IND","India","2022","2022",67.06491,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","PRT","Portugal","2021","2021",43.01507,"‡","UIS Estimation"
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","AFG","Afghanistan","2021","2021",61.00329,,
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","GIN","Guinea","2018","2018",67.19625,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","GUY","Guyana","2022","2022",53.71365,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","MUS","Mauritius","2021","2021",30.3313,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40616","Southern Asia","2017","2017",57.73337,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40616","Southern Asia","2018","2018",57.9764,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40616","Southern Asia","2019","2019",61.94416,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40616","Southern Asia","2020","2020",61.22353,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40616","Southern Asia","2021","2021",60.65472,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40616","Southern Asia","2022","2022",60.03862,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","EGY","Egypt","2017","2017",54.25023,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","EGY","Egypt","2022","2022",52.02172,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40530","Central and Eastern Europe","2017","2017",51.78575,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40530","Central and Eastern Europe","2018","2018",52.80934,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40530","Central and Eastern Europe","2019","2019",48.45229,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40530","Central and Eastern Europe","2020","2020",46.23568,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40530","Central and Eastern Europe","2021","2021",44.20358,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40530","Central and Eastern Europe","2022","2022",44.10714,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","BOL","Bolivia (Plurinational State of)","2020","2020",65.6412,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","CYP","Cyprus","2021","2021",67.07218,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","VEN","Venezuela (Bolivarian Republic of)","2022","2022",33.93759,"‡","UIS Estimation"
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","PHL","Philippines","2019","2019",40.88439,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","CIV","Côte d'Ivoire","2019","2019",83.86554,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","OMN","Oman","2022","2022",47.68152,"+","National Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","BRA","Brazil","2017","2017",50.02799,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","BRA","Brazil","2018","2018",49.77547,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","BRA","Brazil","2022","2022",49.15373,"‡","UIS Estimation"
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","PER","Peru","2017","2017",66.09627,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","PER","Peru","2018","2018",58.98843,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","PER","Peru","2020","2020",52.98969,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","SGP","Singapore","2017","2017",76.48565,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","SGP","Singapore","2018","2018",76.32601,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","SGP","Singapore","2019","2019",76.20028,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","SGP","Singapore","2020","2020",72.23503,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","JOR","Jordan","2021","2021",56.87244,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","LTU","Lithuania","2021","2021",43.79793,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","PAN","Panama","2018","2018",56.29254,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","PAN","Panama","2019","2019",54.96379,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","BEN","Benin","2022","2022",60.49378,"‡","UIS Estimation"
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","MNG","Mongolia","2020","2020",39.07994,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","NAM","Namibia","2021","2021",38.52466,"‡","UIS Estimation"
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","BLR","Belarus","2019","2019",37.33339,,
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","PAK","Pakistan","2017","2017",49.9333,,
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","PAK","Pakistan","2018","2018",57.28668,,
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","PAK","Pakistan","2019","2019",53.91348,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","LVA","Latvia","2021","2021",36.3024,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","STP","Sao Tome and Principe","2022","2022",71.94604,"‡","UIS Estimation"
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","MLI","Mali","2018","2018",63.4061,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","MLI","Mali","2020","2020",62.01401,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","IND","India","2022","2022",61.24413,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","LBN","Lebanon","2019","2019",69.97558,"‡","UIS Estimation"
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","BFA","Burkina Faso","2018","2018",57.36246,,
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","BFA","Burkina Faso","2019","2019",54.71214,,
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","ECU","Ecuador","2017","2017",32.50126,,
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","ECU","Ecuador","2020","2020",37.28481,,
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","ECU","Ecuador","2021","2021",27.2673,,
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","ECU","Ecuador","2022","2022",39.28298,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","SLV","El Salvador","2017","2017",62.28798,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","SLV","El Salvador","2018","2018",62.49333,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","SLV","El Salvador","2019","2019",62.88657,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","SLV","El Salvador","2020","2020",61.67895,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","RWA","Rwanda","2018","2018",59.95384,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","RWA","Rwanda","2021","2021",57.72507,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","COM","Comoros","2022","2022",46.82798,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","STP","Sao Tome and Principe","2022","2022",45.29063,"‡","UIS Estimation"
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","SLV","El Salvador","2017","2017",66.77327,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","SLV","El Salvador","2018","2018",67.83194,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","SLV","El Salvador","2019","2019",69.35749,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","SLV","El Salvador","2020","2020",68.2835,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","AZE","Azerbaijan","2017","2017",68.89189,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","AZE","Azerbaijan","2019","2019",69.1871,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","RWA","Rwanda","2018","2018",41.90415,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","IRN","Iran (Islamic Republic of)","2022","2022",68.12396,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40535","South and West Asia","2017","2017",63.9135,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40535","South and West Asia","2018","2018",63.79752,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40535","South and West Asia","2019","2019",63.45995,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40535","South and West Asia","2020","2020",63.60324,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40535","South and West Asia","2021","2021",63.71349,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40535","South and West Asia","2022","2022",63.449,,
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","TGO","Togo","2019","2019",69.36162,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","COL","Colombia","2018","2018",48.73935,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","COL","Colombia","2019","2019",48.71932,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","COL","Colombia","2020","2020",48.27507,,
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","PSE","Palestine","2017","2017",42.53351,,
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","PSE","Palestine","2018","2018",42.8828,,
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","PSE","Palestine","2019","2019",50.35517,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","MOZ","Mozambique","2017","2017",69.96031,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","MOZ","Mozambique","2020","2020",70.20787,,
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","CHL","Chile","2017","2017",48.5999,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40611","Eastern Asia","2017","2017",73.48218,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40611","Eastern Asia","2018","2018",73.42656,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40611","Eastern Asia","2019","2019",73.85159,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40611","Eastern Asia","2020","2020",73.2751,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40611","Eastern Asia","2021","2021",73.31715,"‡","UIS Estimation"
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","SRB","Serbia","2019","2019",81.6516,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","ESP","Spain","2018","2018",66.59815,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","ESP","Spain","2020","2020",66.30659,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","IDN","Indonesia","2018","2018",72.69861,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","IDN","Indonesia","2020","2020",70.75396,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40619","Eastern and South-Eastern Asia","2017","2017",48.69129,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40619","Eastern and South-Eastern Asia","2018","2018",46.97761,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40619","Eastern and South-Eastern Asia","2019","2019",44.9761,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40619","Eastern and South-Eastern Asia","2020","2020",44.14836,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40619","Eastern and South-Eastern Asia","2021","2021",43.52451,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40619","Eastern and South-Eastern Asia","2022","2022",42.73442,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","MLI","Mali","2018","2018",56.60486,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","MLI","Mali","2020","2020",57.19566,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40344","Small Island Developing States","2017","2017",47.11064,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40344","Small Island Developing States","2018","2018",47.03667,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40344","Small Island Developing States","2019","2019",46.95064,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40344","Small Island Developing States","2020","2020",46.86825,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40344","Small Island Developing States","2021","2021",46.79018,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40344","Small Island Developing States","2022","2022",46.70012,"‡","UIS Estimation"
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","GEO","Georgia","2022","2022",,"n","Magnitude nil or negligible"
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","ZAF","South Africa","2017","2017",36.9045,,
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","ZAF","South Africa","2019","2019",33.49566,,
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","ZAF","South Africa","2021","2021",42.08855,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","NGA","Nigeria","2018","2018",61.94161,"‡","UIS Estimation"
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","KWT","Kuwait","2017","2017",38.69641,,
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","KWT","Kuwait","2018","2018",37.25486,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","PAN","Panama","2018","2018",57.36292,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","PAN","Panama","2019","2019",58.07949,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","MEX","Mexico","2017","2017",47.48009,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","MEX","Mexico","2018","2018",44.80358,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","MEX","Mexico","2020","2020",45.01958,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40330","Landlocked Developing Countries","2017","2017",54.4156,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40330","Landlocked Developing Countries","2018","2018",54.67836,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40330","Landlocked Developing Countries","2019","2019",54.26024,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40330","Landlocked Developing Countries","2020","2020",54.14682,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40330","Landlocked Developing Countries","2021","2021",53.92427,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40330","Landlocked Developing Countries","2022","2022",53.69994,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","BLR","Belarus","2019","2019",38.77521,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","MDA","Republic of Moldova","2021","2021",65.59335,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40505","Central Asia","2017","2017",50.23402,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40505","Central Asia","2018","2018",48.65371,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40505","Central Asia","2019","2019",48.392,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40505","Central Asia","2020","2020",48.46163,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40505","Central Asia","2021","2021",48.21175,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40505","Central Asia","2022","2022",44.99095,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","SLV","El Salvador","2017","2017",44.56155,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","SLV","El Salvador","2018","2018",42.90639,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","SLV","El Salvador","2019","2019",38.19456,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","SLV","El Salvador","2020","2020",41.8251,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","AFG","Afghanistan","2021","2021",61.74648,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","PAK","Pakistan","2017","2017",65.70963,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","PAK","Pakistan","2018","2018",64.28832,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","PAK","Pakistan","2019","2019",64.47334,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","BDI","Burundi","2017","2017",61.56235,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","BDI","Burundi","2022","2022",53.13675,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","VNM","Viet Nam","2019","2019",52.0884,,
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","PSE","Palestine","2017","2017",78.84418,,
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","PSE","Palestine","2018","2018",81.78348,,
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","PSE","Palestine","2019","2019",80.90635,,
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","CHL","Chile","2017","2017",46.17704,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","BRA","Brazil","2017","2017",54.0245,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","BRA","Brazil","2018","2018",53.85538,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40675","World","2017","2017",63.38227,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40675","World","2018","2018",63.13573,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40675","World","2019","2019",63.01947,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40675","World","2020","2020",62.91845,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40675","World","2021","2021",62.92239,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40675","World","2022","2022",62.74383,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","MRT","Mauritania","2021","2021",59.42882,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","COD","Democratic Republic of the Congo","2022","2022",61.3968,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","TCD","Chad","2022","2022",53.66741,"‡","UIS Estimation"
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","ECU","Ecuador","2017","2017",47.41144,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","ECU","Ecuador","2020","2020",36.19445,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","ECU","Ecuador","2021","2021",16.95876,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","ECU","Ecuador","2022","2022",46.96029,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","KEN","Kenya","2022","2022",46.98863,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","IRQ","Iraq","2017","2017",59.9632,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","PAN","Panama","2018","2018",61.2428,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","PAN","Panama","2019","2019",50.1109,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","AZE","Azerbaijan","2017","2017",80.81734,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","AZE","Azerbaijan","2019","2019",80.78624,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","GMB","Gambia","2022","2022",39.4724,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40520","Latin America and the Caribbean","2017","2017",54.67831,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40520","Latin America and the Caribbean","2018","2018",54.44624,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40520","Latin America and the Caribbean","2019","2019",54.4666,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40520","Latin America and the Caribbean","2020","2020",54.73381,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40520","Latin America and the Caribbean","2021","2021",54.44843,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40520","Latin America and the Caribbean","2022","2022",54.41951,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40612","Central Asia","2017","2017",66.43991,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40612","Central Asia","2018","2018",66.5136,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40612","Central Asia","2019","2019",66.72707,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40612","Central Asia","2020","2020",67.29194,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40612","Central Asia","2021","2021",67.48404,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40612","Central Asia","2022","2022",67.28194,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","BGD","Bangladesh","2017","2017",55.91941,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","BGD","Bangladesh","2018","2018",56.02986,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","BGD","Bangladesh","2019","2019",56.23204,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","BGD","Bangladesh","2020","2020",56.64782,,
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","PRY","Paraguay","2018","2018",52.98648,,
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","PRY","Paraguay","2019","2019",51.93462,,
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","PRY","Paraguay","2020","2020",49.17509,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","HND","Honduras","2018","2018",57.1466,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","HND","Honduras","2019","2019",54.04182,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","GTM","Guatemala","2018","2018",65.04405,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","POL","Poland","2021","2021",52.17631,"‡","UIS Estimation"
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","VNM","Viet Nam","2019","2019",64.24908,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40043","Upper middle income countries","2017","2017",45.66255,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40043","Upper middle income countries","2018","2018",49.40816,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40043","Upper middle income countries","2019","2019",49.61224,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40043","Upper middle income countries","2020","2020",49.55478,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40043","Upper middle income countries","2021","2021",49.11312,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40043","Upper middle income countries","2022","2022",49.03128,"‡","UIS Estimation"
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","COL","Colombia","2018","2018",42.51975,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","COL","Colombia","2019","2019",37.19056,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","COL","Colombia","2020","2020",33.93873,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","GIN","Guinea","2018","2018",63.14851,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","GIN","Guinea","2021","2021",65.386,"‡","UIS Estimation"
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","SEN","Senegal","2017","2017",56.92859,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","TLS","Timor-Leste","2020","2020",55.03968,"‡","UIS Estimation"
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","THA","Thailand","2018","2018",63.5905,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","PER","Peru","2017","2017",76.71897,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","PER","Peru","2018","2018",76.75404,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","PER","Peru","2020","2020",74.47513,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40618","Central and Southern Asia","2017","2017",57.73144,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40618","Central and Southern Asia","2018","2018",57.97444,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40618","Central and Southern Asia","2019","2019",61.94084,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40618","Central and Southern Asia","2020","2020",61.22092,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40618","Central and Southern Asia","2021","2021",60.65214,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40618","Central and Southern Asia","2022","2022",60.03605,,
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","BFA","Burkina Faso","2018","2018",63.90455,,
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","BFA","Burkina Faso","2019","2019",59.16508,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","SWZ","Eswatini","2020","2020",49.77257,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40334","Least Developed Countries","2017","2017",56.2452,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40334","Least Developed Countries","2018","2018",56.05326,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40334","Least Developed Countries","2019","2019",55.85668,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40334","Least Developed Countries","2020","2020",55.55331,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40334","Least Developed Countries","2021","2021",55.15986,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40334","Least Developed Countries","2022","2022",54.82617,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","OMN","Oman","2022","2022",67.39019,"+","National Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","KHM","Cambodia","2022","2022",64.29723,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40617","Northern Africa and Western Asia","2017","2017",59.47944,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40617","Northern Africa and Western Asia","2018","2018",57.03874,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40617","Northern Africa and Western Asia","2019","2019",56.98115,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40617","Northern Africa and Western Asia","2020","2020",56.96572,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40617","Northern Africa and Western Asia","2021","2021",57.03942,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40617","Northern Africa and Western Asia","2022","2022",56.96926,,
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","CIV","Côte d'Ivoire","2019","2019",47.35028,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","LAO","Lao People's Democratic Republic","2022","2022",66.41007,"‡","UIS Estimation"
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","PRY","Paraguay","2018","2018",18.74089,,
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","PRY","Paraguay","2019","2019",37.31134,,
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","PRY","Paraguay","2020","2020",62.40407,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","CPV","Cabo Verde","2022","2022",29.40075,"‡","UIS Estimation"
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","BOL","Bolivia (Plurinational State of)","2020","2020",81.99181,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","ABW","Aruba","2020","2020",59.96795,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40525","Arab States","2017","2017",59.25237,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40525","Arab States","2018","2018",56.92773,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40525","Arab States","2019","2019",56.89304,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40525","Arab States","2020","2020",56.87862,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40525","Arab States","2021","2021",56.94811,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40525","Arab States","2022","2022",56.87621,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","GTM","Guatemala","2018","2018",56.53478,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","GTM","Guatemala","2022","2022",53.03621,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","TUR","Türkiye","2017","2017",84.73379,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","TUR","Türkiye","2019","2019",85.87403,,
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","TGO","Togo","2019","2019",66.0838,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","PAK","Pakistan","2017","2017",64.36982,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","PAK","Pakistan","2018","2018",63.57905,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","PAK","Pakistan","2019","2019",63.2627,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","ESP","Spain","2018","2018",37.72601,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","ESP","Spain","2020","2020",45.73672,,
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","IND","India","2022","2022",63.25108,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","BRN","Brunei Darussalam","2018","2018",35.05738,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","BRN","Brunei Darussalam","2021","2021",35.45995,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","SYC","Seychelles","2020","2020",40.84289,"‡","UIS Estimation"
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","ARM","Armenia","2017","2017",39.98043,,
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","ARM","Armenia","2020","2020",38.82767,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","ECU","Ecuador","2017","2017",56.37012,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","ECU","Ecuador","2020","2020",59.50625,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","ECU","Ecuador","2021","2021",54.47483,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","ECU","Ecuador","2022","2022",58.30505,,
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","SEN","Senegal","2017","2017",63.9551,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","ITA","Italy","2019","2019",61.6701,"‡","UIS Estimation"
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","MNG","Mongolia","2020","2020",47.4907,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","THA","Thailand","2018","2018",36.70992,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","THA","Thailand","2021","2021",34.7596,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","NER","Niger","2022","2022",56.57178,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40603","Northern Africa","2017","2017",61.54152,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40603","Northern Africa","2018","2018",62.00071,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40603","Northern Africa","2019","2019",61.98082,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40603","Northern Africa","2020","2020",61.96182,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40603","Northern Africa","2021","2021",61.95459,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40603","Northern Africa","2022","2022",61.94563,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","KGZ","Kyrgyzstan","2019","2019",39.50736,"‡","UIS Estimation"
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","KWT","Kuwait","2017","2017",63.37539,,
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","KWT","Kuwait","2018","2018",66.92461,,
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","URY","Uruguay","2017","2017",31.61562,,
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","URY","Uruguay","2018","2018",36.6,,
+"ILLPOPF_AG15T24_URB","Illiterate youth population, 15-24 years, urban, % female","URY","Uruguay","2019","2019",34.81986,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","BGD","Bangladesh","2017","2017",37.15067,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","BGD","Bangladesh","2018","2018",34.59743,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","BGD","Bangladesh","2019","2019",34.06907,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","BGD","Bangladesh","2020","2020",35.37231,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","ZMB","Zambia","2020","2020",64.63358,"‡","UIS Estimation"
+"ILLPOPF_AG15T99_URB","Adult illiterate population, 15+ years, urban, % female","BLR","Belarus","2019","2019",49.83338,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","OMN","Oman","2017","2017",31.39333,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","OMN","Oman","2018","2018",30.13,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","OMN","Oman","2022","2022",39.5675,"+","National Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","MRT","Mauritania","2021","2021",54.104,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","CHL","Chile","2017","2017",51.7451,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","CHL","Chile","2022","2022",51.64488,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","VUT","Vanuatu","2021","2021",45.11375,"‡","UIS Estimation"
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","ARM","Armenia","2017","2017",42.00445,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","ARM","Armenia","2020","2020",41.08071,,
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","PAN","Panama","2018","2018",55.91863,,
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","PAN","Panama","2019","2019",53.64013,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","ARE","United Arab Emirates","2019","2019",11.61599,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","ARE","United Arab Emirates","2021","2021",39.85878,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","ARE","United Arab Emirates","2022","2022",46.30986,,
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","MOZ","Mozambique","2017","2017",65.39014,,
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","MOZ","Mozambique","2020","2020",65.97363,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","ZAF","South Africa","2017","2017",54.83026,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","ZAF","South Africa","2019","2019",57.46887,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","ZAF","South Africa","2021","2021",55.54675,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","MNE","Montenegro","2021","2021",74.17856,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","KOR","Republic of Korea","2018","2018",,"‡; n","UIS Estimation; Magnitude nil or negligible"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","AGO","Angola","2022","2022",57.91937,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","PRI","Puerto Rico","2017","2017",53.0654,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","PRI","Puerto Rico","2021","2021",53.35219,"‡","UIS Estimation"
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","LKA","Sri Lanka","2017","2017",58.63558,,
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","LKA","Sri Lanka","2018","2018",58.36803,,
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","LKA","Sri Lanka","2019","2019",57.07408,,
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","LKA","Sri Lanka","2020","2020",57.61008,,
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","LKA","Sri Lanka","2021","2021",57.5837,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","BEN","Benin","2022","2022",60.07447,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","SRB","Serbia","2019","2019",50.08191,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","ARM","Armenia","2017","2017",68.19565,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","ARM","Armenia","2020","2020",68.14955,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","GAB","Gabon","2022","2022",39.19686,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","MMR","Myanmar","2019","2019",47.47896,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","ROU","Romania","2021","2021",48.89097,"‡","UIS Estimation"
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","GIN","Guinea","2018","2018",62.18316,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","RUS","Russian Federation","2021","2021",42.9483,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","MDV","Maldives","2021","2021",53.44345,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","GHA","Ghana","2020","2020",61.08728,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","PRK","Democratic People's Republic of Korea","2018","2018",26.93181,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","UGA","Uganda","2018","2018",47.57804,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","UGA","Uganda","2022","2022",42.90704,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","CUB","Cuba","2021","2021",43.89196,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","ZMB","Zambia","2020","2020",52.95346,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","SAU","Saudi Arabia","2017","2017",50.11136,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","SAU","Saudi Arabia","2020","2020",52.55367,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","TGO","Togo","2019","2019",65.69805,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","ALB","Albania","2022","2022",56.93604,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","HUN","Hungary","2021","2021",40.82911,"‡","UIS Estimation"
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","ARM","Armenia","2017","2017",68.26488,,
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","ARM","Armenia","2020","2020",68.16135,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","SDN","Sudan","2018","2018",56.4588,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","SEN","Senegal","2017","2017",59.7316,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","SEN","Senegal","2022","2022",56.26567,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","CIV","Côte d'Ivoire","2019","2019",65.28959,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","BOL","Bolivia (Plurinational State of)","2020","2020",78.85583,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","MAR","Morocco","2022","2022",52.78477,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","LBR","Liberia","2017","2017",60.68028,"‡","UIS Estimation"
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","GEO","Georgia","2022","2022",61.72403,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","CRI","Costa Rica","2021","2021",40.90369,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","BTN","Bhutan","2017","2017",47.54147,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","BTN","Bhutan","2022","2022",48.48099,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","MLT","Malta","2021","2021",33.58213,"‡","UIS Estimation"
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","ZAF","South Africa","2017","2017",56.22556,,
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","ZAF","South Africa","2019","2019",61.29797,,
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","ZAF","South Africa","2021","2021",57.68685,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","KOR","Republic of Korea","2018","2018",66.82897,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","CMR","Cameroon","2018","2018",58.86355,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","CMR","Cameroon","2020","2020",58.67708,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","GNB","Guinea-Bissau","2022","2022",59.98252,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","CAF","Central African Republic","2018","2018",57.23547,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","CAF","Central African Republic","2020","2020",57.01905,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","KAZ","Kazakhstan","2020","2020",100,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","MMR","Myanmar","2019","2019",64.97587,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","MNG","Mongolia","2020","2020",41.00414,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","GIN","Guinea","2018","2018",63.62044,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","TON","Tonga","2021","2021",47.16541,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","GUY","Guyana","2022","2022",42.02394,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","LBN","Lebanon","2019","2019",30.19524,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","SAU","Saudi Arabia","2017","2017",62.23057,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","SAU","Saudi Arabia","2020","2020",65.07298,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","MAC","China, Macao Special Administrative Region","2021","2021",10.27573,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","MDG","Madagascar","2018","2018",53.7011,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","MDG","Madagascar","2022","2022",53.44998,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","HUN","Hungary","2021","2021",52.65228,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","ETH","Ethiopia","2017","2017",57.86085,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","EST","Estonia","2021","2021",32.1875,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","BIH","Bosnia and Herzegovina","2022","2022",83.47191,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","PHL","Philippines","2019","2019",42.04351,,
+"ILLPOPF_AG15T24_RUR","Illiterate youth population, 15-24 years, rural, % female","AFG","Afghanistan","2021","2021",65.94914,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","DOM","Dominican Republic","2022","2022",59.30443,"‡","UIS Estimation"
+"ILLPOPF_AG15T99_RUR","Adult illiterate population, 15+ years, rural, % female","BTN","Bhutan","2017","2017",58.63695,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","CHN","China","2020","2020",44.93604,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","GHA","Ghana","2020","2020",50.43353,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","LKA","Sri Lanka","2017","2017",36.74775,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","LKA","Sri Lanka","2018","2018",38.70892,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","LKA","Sri Lanka","2019","2019",37.62331,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","LKA","Sri Lanka","2020","2020",37.73068,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","LKA","Sri Lanka","2021","2021",39.37985,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","UKR","Ukraine","2021","2021",,"‡; n","UIS Estimation; Magnitude nil or negligible"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","UZB","Uzbekistan","2018","2018",50.10161,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","UZB","Uzbekistan","2019","2019",50.15195,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","UZB","Uzbekistan","2021","2021",50.23535,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","UZB","Uzbekistan","2022","2022",50.22662,,
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","RUS","Russian Federation","2021","2021",43.57662,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","VUT","Vanuatu","2021","2021",53.75654,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","ERI","Eritrea","2018","2018",67.91209,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","KGZ","Kyrgyzstan","2019","2019",64.21083,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","BTN","Bhutan","2017","2017",59.62037,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","BTN","Bhutan","2022","2022",60.29794,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","UKR","Ukraine","2021","2021",54.63903,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","CYM","Cayman Islands","2017","2017",43.1944,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","LSO","Lesotho","2022","2022",29.03507,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","SOM","Somalia","2022","2022",59.33843,,
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","GMB","Gambia","2022","2022",58.75261,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","LSO","Lesotho","2022","2022",21.60074,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","AGO","Angola","2022","2022",69.63529,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","WSM","Samoa","2021","2021",40.72077,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","CUB","Cuba","2021","2021",40.60356,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40642","Europe and Northern America","2018","2018",59.68258,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40642","Europe and Northern America","2019","2019",59.56507,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40642","Europe and Northern America","2020","2020",59.33365,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40642","Europe and Northern America","2021","2021",58.92749,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40642","Europe and Northern America","2022","2022",58.82122,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40642","Europe and Northern America","2018","2018",50.75523,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40642","Europe and Northern America","2019","2019",51.08683,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40642","Europe and Northern America","2020","2020",50.04376,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40642","Europe and Northern America","2021","2021",50.50259,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40642","Europe and Northern America","2022","2022",50.88433,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40640","Northern America ","2017","2017",54.86692,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40640","Northern America ","2018","2018",54.96528,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40640","Northern America ","2019","2019",55.05853,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40640","Northern America ","2020","2020",54.93215,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40640","Northern America ","2021","2021",55.10577,"‡","UIS Estimation"
+"ILLPOPF_AG15T24","Youth illiterate population, 15-24 years, % female","40640","Northern America ","2022","2022",55.16815,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40640","Northern America ","2017","2017",52.87941,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40640","Northern America ","2018","2018",52.7634,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40640","Northern America ","2019","2019",52.70225,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40640","Northern America ","2020","2020",52.61807,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40640","Northern America ","2021","2021",52.51068,"‡","UIS Estimation"
+"ILLPOPF_AG15T99","Adult illiterate population, 15+ years, % female","40640","Northern America ","2022","2022",52.51899,"‡","UIS Estimation"

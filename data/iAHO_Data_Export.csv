@@ -1,0 +1,48 @@
+﻿Country,Indicator,"Indicator Code",Period,DisaggregationId,Disaggregation,DatasourceId,"Data Source",MeasurementMethodId,"Measurement Method",Value
+ALGERIA,"Physical access score",AFR0598,2020,999,"Not Applicable",1,"WHO Regional Office for Africa",12,Index,62.7
+ANGOLA,"Physical access score",AFR0598,2020,999,"Not Applicable",1,"WHO Regional Office for Africa",12,Index,16.1
+BENIN,"Physical access score",AFR0598,2020,999,"Not Applicable",1,"WHO Regional Office for Africa",12,Index,12
+BOTSWANA,"Physical access score",AFR0598,2020,999,"Not Applicable",1,"WHO Regional Office for Africa",12,Index,64.6
+"BURKINA FASO","Physical access score",AFR0598,2020,999,"Not Applicable",1,"WHO Regional Office for Africa",12,Index,13.2
+BURUNDI,"Physical access score",AFR0598,2020,999,"Not Applicable",1,"WHO Regional Office for Africa",12,Index,15.1
+"CABO VERDE","Physical access score",AFR0598,2020,999,"Not Applicable",1,"WHO Regional Office for Africa",12,Index,45.6
+CAMEROON,"Physical access score",AFR0598,2020,999,"Not Applicable",1,"WHO Regional Office for Africa",12,Index,30.3
+"CENTRAL AFRICAN REPUBLIC","Physical access score",AFR0598,2020,999,"Not Applicable",1,"WHO Regional Office for Africa",12,Index,24.1
+CHAD,"Physical access score",AFR0598,2020,999,"Not Applicable",1,"WHO Regional Office for Africa",12,Index,11
+COMOROS,"Physical access score",AFR0598,2020,999,"Not Applicable",1,"WHO Regional Office for Africa",12,Index,32.1
+"CÔTE D'IVOIRE","Physical access score",AFR0598,2020,999,"Not Applicable",1,"WHO Regional Office for Africa",12,Index,19.7
+"DEMOCRATIC REPUBLIC OF CONGO","Physical access score",AFR0598,2020,999,"Not Applicable",1,"WHO Regional Office for Africa",12,Index,42.8
+"EQUATORIAL GUINEA","Physical access score",AFR0598,2020,999,"Not Applicable",1,"WHO Regional Office for Africa",12,Index,26.9
+ERITREA,"Physical access score",AFR0598,2020,999,"Not Applicable",1,"WHO Regional Office for Africa",12,Index,25.2
+ESWATINI,"Physical access score",AFR0598,2020,999,"Not Applicable",1,"WHO Regional Office for Africa",12,Index,43.5
+ETHIOPIA,"Physical access score",AFR0598,2020,999,"Not Applicable",1,"WHO Regional Office for Africa",12,Index,15.1
+GABON,"Physical access score",AFR0598,2020,999,"Not Applicable",1,"WHO Regional Office for Africa",12,Index,54.1
+GAMBIA,"Physical access score",AFR0598,2020,999,"Not Applicable",1,"WHO Regional Office for Africa",12,Index,9
+GHANA,"Physical access score",AFR0598,2020,999,"Not Applicable",1,"WHO Regional Office for Africa",12,Index,27.9
+GUINEA,"Physical access score",AFR0598,2020,999,"Not Applicable",1,"WHO Regional Office for Africa",12,Index,29.2
+GUINEA-BISSAU,"Physical access score",AFR0598,2020,999,"Not Applicable",1,"WHO Regional Office for Africa",12,Index,15.2
+KENYA,"Physical access score",AFR0598,2020,999,"Not Applicable",1,"WHO Regional Office for Africa",12,Index,16.7
+LESOTHO,"Physical access score",AFR0598,2020,999,"Not Applicable",1,"WHO Regional Office for Africa",12,Index,35.4
+LIBERIA,"Physical access score",AFR0598,2020,999,"Not Applicable",1,"WHO Regional Office for Africa",12,Index,37
+MADAGASCAR,"Physical access score",AFR0598,2020,999,"Not Applicable",1,"WHO Regional Office for Africa",12,Index,28.7
+MALAWI,"Physical access score",AFR0598,2020,999,"Not Applicable",1,"WHO Regional Office for Africa",12,Index,13.6
+MALI,"Physical access score",AFR0598,2020,999,"Not Applicable",1,"WHO Regional Office for Africa",12,Index,33.5
+MAURITANIA,"Physical access score",AFR0598,2020,999,"Not Applicable",1,"WHO Regional Office for Africa",12,Index,20.7
+MAURITIUS,"Physical access score",AFR0598,2020,999,"Not Applicable",1,"WHO Regional Office for Africa",12,Index,63
+MOZAMBIQUE,"Physical access score",AFR0598,2020,999,"Not Applicable",1,"WHO Regional Office for Africa",12,Index,7.1
+NAMIBIA,"Physical access score",AFR0598,2020,999,"Not Applicable",1,"WHO Regional Office for Africa",12,Index,35.1
+NIGER,"Physical access score",AFR0598,2020,999,"Not Applicable",1,"WHO Regional Office for Africa",12,Index,36.8
+NIGERIA,"Physical access score",AFR0598,2020,999,"Not Applicable",1,"WHO Regional Office for Africa",12,Index,32.8
+"REPUBLIC OF CONGO","Physical access score",AFR0598,2020,999,"Not Applicable",1,"WHO Regional Office for Africa",12,Index,11.6
+RWANDA,"Physical access score",AFR0598,2020,999,"Not Applicable",1,"WHO Regional Office for Africa",12,Index,15.6
+"SÃO TOMÉ AND PRÍNCIPE","Physical access score",AFR0598,2020,999,"Not Applicable",1,"WHO Regional Office for Africa",12,Index,52.7
+SENEGAL,"Physical access score",AFR0598,2020,999,"Not Applicable",1,"WHO Regional Office for Africa",12,Index,13.3
+SEYCHELLES,"Physical access score",AFR0598,2020,999,"Not Applicable",1,"WHO Regional Office for Africa",12,Index,71.8
+"SIERRA LEONE","Physical access score",AFR0598,2020,999,"Not Applicable",1,"WHO Regional Office for Africa",12,Index,35.4
+"SOUTH AFRICA","Physical access score",AFR0598,2020,999,"Not Applicable",1,"WHO Regional Office for Africa",12,Index,47.7
+"SOUTH SUDAN","Physical access score",AFR0598,2020,999,"Not Applicable",1,"WHO Regional Office for Africa",12,Index,17.3
+TOGO,"Physical access score",AFR0598,2020,999,"Not Applicable",1,"WHO Regional Office for Africa",12,Index,6.3
+UGANDA,"Physical access score",AFR0598,2020,999,"Not Applicable",1,"WHO Regional Office for Africa",12,Index,29.9
+"UNITED REPUBLIC OF TANZANIA","Physical access score",AFR0598,2020,999,"Not Applicable",1,"WHO Regional Office for Africa",12,Index,35.8
+ZAMBIA,"Physical access score",AFR0598,2020,999,"Not Applicable",1,"WHO Regional Office for Africa",12,Index,35.7
+ZIMBABWE,"Physical access score",AFR0598,2020,999,"Not Applicable",1,"WHO Regional Office for Africa",12,Index,24
