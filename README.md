@@ -32,7 +32,7 @@ Source: <https://dataportal.opendataforafrica.org/>
 UNESCO provides data on adult (youth) illiteracy rates for females aged
 15+ (15-24). This data reflects the percentage of females within this
 age group who are unable to read and write. The graph below provides the
-illeterate
+illiteracy rates for Northern and Sub-Saharan Africa.
 
 <br>
 
