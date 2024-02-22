@@ -16,6 +16,25 @@ affected areas. Below are examples of some indicators for Africa.
 
 The development of infrastructure in Africa is vital for economic growth
 and human development, and to reduce poverty while achieving the
-Sustainable Development Goals (SDGs).
+Sustainable Development Goals (SDGs). The map below displays the
+“Composite Africa Infrastructure Development Index 2022”.
 
-![](README_files/figure-gfm/setOptions-1.png)<!-- -->
+<br>
+
+![](README_files/figure-gfm/unnamed-chunk-1-1.png)<!-- -->
+
+Source: <https://dataportal.opendataforafrica.org/>
+
+<br>
+
+## Education: illiterate population
+
+UNESCO provides data on adult (youth) illiteracy rates for females aged
+15+ (15-24). This data reflects the percentage of females within this
+age group who are unable to read and write.
+
+<br>
+
+![](README_files/figure-gfm/unnamed-chunk-2-1.png)<!-- -->
+
+source: <http://data.uis.unesco.org/>
