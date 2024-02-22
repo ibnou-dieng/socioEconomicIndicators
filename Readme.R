@@ -48,32 +48,63 @@ hcmap(
 
 ################################################################################
 ################################################################################
-######### Education: illiterate population 
+######### Education: illiterate population
 ################################################################################
 ################################################################################
 
 ## read the data
-education <- read_csv("data/NATMON_DS_22022024030656751.csv") |> 
-  filter(Country %in% c("Northern Africa", "Sub-Saharan Africa")) |> 
-  select(Indicator, Country, Time, Value) |> 
-  unite(concatenation, c(Indicator,Country,Time),remove = FALSE) |> 
-  distinct(concatenation, .keep_all = TRUE) |> 
-  select(-concatenation) |> 
-  mutate(Time=as.factor(Time))
+education <- read_csv("data/NATMON_DS_22022024030656751.csv") |>
+  filter(Country %in% c("Northern Africa", "Sub-Saharan Africa")) |>
+  select(Indicator, Country, Time, Value) |>
+  unite(concatenation, c(Indicator, Country, Time), remove = FALSE) |>
+  distinct(concatenation, .keep_all = TRUE) |>
+  select(-concatenation) |>
+  mutate(Time = as.factor(Time))
 
 ## define the color palette
-mycolors <- inlmisc::GetColors(n=10) 
-mycolors <- c(mycolors[6],mycolors[8])
+mycolors <- inlmisc::GetColors(n = 10)
+mycolors <- c(mycolors[6], mycolors[8])
+
+## Generate the legend
+plot.legend <- education |>
+  ggplot() +
+  aes(x = Time, y = Value, fill = Indicator) +
+  geom_bar(stat = "identity", position = position_dodge()) +
+  labs(x = "",
+       y = "") +
+  scale_fill_manual(values = mycolors, name = "") +
+  theme_bw() +
+  theme(legend.position = "top")
+
+legend <- cowplot::get_legend(plot.legend)
 
 ## plot the data
-education |> 
-  ggplot() + 
-  aes(x=Time, y=Value, fill=Indicator) +
-  geom_bar(stat = "identity", position=position_dodge()) +
-  labs(
-    x = "Year",
-    y = "",
-  ) +
-  scale_fill_manual(values=mycolors, name="") +
-  theme_bw() +
-  theme(legend.position="bottom")
+education.plots <- education |>
+  nest_by(Country) |>
+  mutate(plots = list(
+    data |>
+      ggplot() +
+      aes(x = Time, y = Value, fill = Indicator) +
+      geom_bar(stat = "identity", position = position_dodge()) +
+      labs(x = "",
+           y = "",
+           subtitle = Country) +
+      scale_fill_manual(values = mycolors, name = "") +
+      theme_bw() +
+      theme(
+        legend.position = "none",
+        legend.key.size = unit(0.5, 'cm'),
+        legend.key.height = unit(0.5, 'cm'),
+        legend.key.width = unit(0.5, 'cm')
+      )
+  ))
+
+## Display the plots
+gridExtra::grid.arrange(
+  legend,
+  education.plots$plots[[1]],
+  education.plots$plots[[2]],
+  ncol = 1,
+  heights = c(1, 4, 4),
+  bottom = "Year"
+)
